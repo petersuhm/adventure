@@ -28,7 +28,7 @@ service providers.
 
 ## Event Emitter
 
-The event emitter in Adventure is build on top of the Event package
+The event emitter in Adventure is build on top of the [Event](http://event.thephpleague.com/2.0/) package
 from the PHP League. It wraps the WordPress action API.
 
 ```php
