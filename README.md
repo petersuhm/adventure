@@ -20,7 +20,7 @@ $plugin = new AwesomePlugin;
 
 ## Dependency Injection Container
 
-The `WordPressPlugin` class in Adventure is based on top of the
+The `WordPressPlugin` class in Adventure is built on top of the
 [Container](http://container.thephpleague.com/) package from the
 [PHP League](http://thephpleague.com/). This gives us everything
 we need: automatic dependency resolving, factory closures and
@@ -28,7 +28,7 @@ service providers.
 
 ## Event Emitter
 
-The event emitter in Adventure is build on top of the [Event](http://event.thephpleague.com/2.0/) package
+The event emitter in Adventure is built on top of the [Event](http://event.thephpleague.com/2.0/) package
 from the PHP League. It wraps the WordPress action API.
 
 ```php
