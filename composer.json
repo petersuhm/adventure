@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Adventure\\": "src/"
+        }
+    },
+    "require": {
+        "league/container": "~1.3"
+    }
+}
