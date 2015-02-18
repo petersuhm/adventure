@@ -1,6 +1,8 @@
 # Adventure
 **A WordPress plugin framework build on top of Composer packages**
 
+_Please note that this is still very much a work-in-progress!_
+
 ```php
 /*
  * Plugin Name: My Plugin
